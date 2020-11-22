@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="123057" started-at="2020-11-21T18:24:53Z" finished-at="2020-11-21T18:26:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="123057" started-at="2020-11-21T18:24:53Z" finished-at="2020-11-21T18:26:57Z">
+      <class name="org.activity1.website.title.Activity1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity1.website.title.Activity1@3abbfa04]" name="beforeClass" is-config="true" duration-ms="4253" started-at="2020-11-21T18:25:16Z" finished-at="2020-11-21T18:25:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="WebsiteTitle()[pri:0, instance:org.activity1.website.title.Activity1@3abbfa04]" name="WebsiteTitle" duration-ms="7475" started-at="2020-11-21T18:25:20Z" finished-at="2020-11-21T18:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebsiteTitle -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity1.website.title.Activity1@3abbfa04]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-11-21T18:25:28Z" finished-at="2020-11-21T18:25:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity1.website.title.Activity1 -->
+      <class name="org.activity4.login.page.Activity4">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity4.login.page.Activity4@57fffcd7]" name="beforeClass" is-config="true" duration-ms="4235" started-at="2020-11-21T18:25:28Z" finished-at="2020-11-21T18:25:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:org.activity4.login.page.Activity4@57fffcd7]" name="loginPage" duration-ms="6152" started-at="2020-11-21T18:25:32Z" finished-at="2020-11-21T18:25:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity4.login.page.Activity4@57fffcd7]" name="afterClass" is-config="true" duration-ms="1005" started-at="2020-11-21T18:25:38Z" finished-at="2020-11-21T18:25:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity4.login.page.Activity4 -->
+      <class name="org.activity6.menu.check.Activity6">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity6.menu.check.Activity6@13deb50e]" name="beforeClass" is-config="true" duration-ms="4657" started-at="2020-11-21T18:24:53Z" finished-at="2020-11-21T18:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="menuCheck()[pri:0, instance:org.activity6.menu.check.Activity6@13deb50e]" name="menuCheck" duration-ms="5418" started-at="2020-11-21T18:24:58Z" finished-at="2020-11-21T18:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuCheck -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity6.menu.check.Activity6@13deb50e]" name="afterClass" is-config="true" duration-ms="861" started-at="2020-11-21T18:25:04Z" finished-at="2020-11-21T18:25:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity6.menu.check.Activity6 -->
+      <class name="org.activity8.traverse.table.Activity8">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity8.traverse.table.Activity8@5f341870]" name="beforeClass" is-config="true" duration-ms="4235" started-at="2020-11-21T18:26:40Z" finished-at="2020-11-21T18:26:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="traverseTable()[pri:0, instance:org.activity8.traverse.table.Activity8@5f341870]" name="traverseTable" duration-ms="11261" started-at="2020-11-21T18:26:44Z" finished-at="2020-11-21T18:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- traverseTable -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity8.traverse.table.Activity8@5f341870]" name="afterClass" is-config="true" duration-ms="894" started-at="2020-11-21T18:26:56Z" finished-at="2020-11-21T18:26:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity8.traverse.table.Activity8 -->
+      <class name="org.activity7.read.info.Activity7">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity7.read.info.Activity7@14bf9759]" name="beforeClass" is-config="true" duration-ms="4248" started-at="2020-11-21T18:26:17Z" finished-at="2020-11-21T18:26:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="readInfo()[pri:0, instance:org.activity7.read.info.Activity7@14bf9759]" name="readInfo" duration-ms="17243" started-at="2020-11-21T18:26:22Z" finished-at="2020-11-21T18:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readInfo -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity7.read.info.Activity7@14bf9759]" name="afterClass" is-config="true" duration-ms="1271" started-at="2020-11-21T18:26:39Z" finished-at="2020-11-21T18:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity7.read.info.Activity7 -->
+      <class name="org.activity5.getting.colors.Activity5">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity5.getting.colors.Activity5@239963d8]" name="beforeClass" is-config="true" duration-ms="4210" started-at="2020-11-21T18:25:04Z" finished-at="2020-11-21T18:25:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="gettingColor()[pri:0, instance:org.activity5.getting.colors.Activity5@239963d8]" name="gettingColor" duration-ms="6260" started-at="2020-11-21T18:25:09Z" finished-at="2020-11-21T18:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettingColor -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity5.getting.colors.Activity5@239963d8]" name="afterClass" is-config="true" duration-ms="873" started-at="2020-11-21T18:25:15Z" finished-at="2020-11-21T18:25:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity5.getting.colors.Activity5 -->
+      <class name="org.activity2.header.image.Activity2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity2.header.image.Activity2@31ef45e3]" name="beforeClass" is-config="true" duration-ms="4238" started-at="2020-11-21T18:25:39Z" finished-at="2020-11-21T18:25:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="headerImage()[pri:0, instance:org.activity2.header.image.Activity2@31ef45e3]" name="headerImage" duration-ms="3971" started-at="2020-11-21T18:25:43Z" finished-at="2020-11-21T18:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerImage -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity2.header.image.Activity2@31ef45e3]" name="afterClass" is-config="true" duration-ms="830" started-at="2020-11-21T18:25:47Z" finished-at="2020-11-21T18:25:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity2.header.image.Activity2 -->
+      <class name="org.activity9.test.Activity9">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity9.test.Activity9@3c0ecd4b]" name="beforeClass" is-config="true" duration-ms="4284" started-at="2020-11-21T18:26:01Z" finished-at="2020-11-21T18:26:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="traverseTable()[pri:0, instance:org.activity9.test.Activity9@3c0ecd4b]" name="traverseTable" duration-ms="11087" started-at="2020-11-21T18:26:05Z" finished-at="2020-11-21T18:26:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- traverseTable -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity9.test.Activity9@3c0ecd4b]" name="afterClass" is-config="true" duration-ms="885" started-at="2020-11-21T18:26:16Z" finished-at="2020-11-21T18:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity9.test.Activity9 -->
+      <class name="org.activity3.copyright.text.Activity3">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.activity3.copyright.text.Activity3@598067a5]" name="beforeClass" is-config="true" duration-ms="4261" started-at="2020-11-21T18:25:48Z" finished-at="2020-11-21T18:25:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="copyrightText()[pri:0, instance:org.activity3.copyright.text.Activity3@598067a5]" name="copyrightText" duration-ms="8009" started-at="2020-11-21T18:25:52Z" finished-at="2020-11-21T18:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copyrightText -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.activity3.copyright.text.Activity3@598067a5]" name="afterClass" is-config="true" duration-ms="896" started-at="2020-11-21T18:26:00Z" finished-at="2020-11-21T18:26:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.activity3.copyright.text.Activity3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
