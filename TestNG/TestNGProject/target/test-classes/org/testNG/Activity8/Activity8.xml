@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="org.testNG.Activity7.Activity7"/>
+      <class name="TestNG.TestNGProject.Activity2.Activity2"/>
+      <class name="TestNG.TestNGProject.Activity3.Activity3"/>
+      <class name="org.testNG.Activity4.DemoOne"/>
+      <class name="org.testNG.Activity5.Activity5"/>
+      <class name="TestNG.TestNGProject.Activity15"/>
+      <class name="org.testNG.Activity4.DemoTwo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
